@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    font-family: 'Inter';
+}
+
+body {
+    background-color: #F4F4F4;
+}
+
+.header {
+    background-color: #6943FF;
+    color: white;
+}
+
+.card {
+    background-color: white;
+    margin: 10px;
+}
+
